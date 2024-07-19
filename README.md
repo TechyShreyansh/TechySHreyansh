@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/sgq849c/20230629-085019.jpg)
+![MasterHead](https://i.ibb.co/cbsxNRL/banner.png)
 <h1 align="center">Hi 👋, I'm Tech Shreyansh</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
