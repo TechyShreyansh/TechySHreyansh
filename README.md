@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/cbsxNRL/banner.png)
+![MasterHead](https://github.com/techshreyansh0129/Organic-Safelink/blob/main/assests/banner.png)
 <h1 align="center">Hi 👋, I'm Tech Shreyansh</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
