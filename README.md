@@ -77,6 +77,8 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 </tr>
 </details>
 
+![Contribution Graph](https://github-readme-stats.vercel.app/api?username=techyshreyansh)
+
 ### Watch my contribution graph get eaten by the snake :snake:
 <!-- platane/snk works, it just puts it on a new branch -->
 ![Tech-Shreyansh snake gif](https://github.com/techyshreyansh/techyshreyansh/blob/main/Images/github-snake.svg)
