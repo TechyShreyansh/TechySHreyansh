@@ -48,7 +48,7 @@
 
 <img align="right" width="150" height="150" src="https://github.com/techyshreyansh/techyshreyansh/blob/main/Images/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
 ### Some Fun Facts about me:
-I've founded a few companies in the past :zap: I love playing video games and you'll find me playing games on my [Twitch Channel](http://twitch.tv/MishManners) and live coding! I'm super into sports, including lots of outdoor adventures like hiking, snowboarding, and wakeboarding. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my Twitch chat during a live stream. Or DM me on Instagram or Twitter.
+I've Worked for many users in the past. ⚡ I love playing video games and you'll find me on my [Telegram Channel](http://telegram.me/Tech_Shreyansh) and live coding! I'm into Hacking, App Modding, and Web Designing. I also enjoy watching Movies and Cartoons, Finding bugs, making Something new, and Solving errors in Code. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my [Telegram Chat](http://telegram.me/Tech_Shreyansh2) during a live. Or DM me on Instagram or Twitter. Let's connect!
 
 ### Metrics
 | Stats | Streak | Language |
