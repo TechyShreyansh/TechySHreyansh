@@ -47,25 +47,25 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <img align="right" width="150" height="150" src="https://github.com/techyshreyansh/techyshreyansh/blob/main/Images/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
-<h3 align="left">Some Fun Facts about me:</h3>
+## Some Fun Facts about me:
 I've founded a few companies in the past :zap: I love playing video games and you'll find me playing games on my [Twitch Channel](http://twitch.tv/MishManners) and live coding! I'm super into sports, including lots of outdoor adventures like hiking, snowboarding, and wakeboarding. You might run into me at an event, so make sure you follow my socials for all the updates. For a super quick live response, jump into my Twitch chat during a live stream. Or DM me on Instagram or Twitter.
 
-<h3 align="left">Metrics</h3>
+## Metrics
 | Stats | Streak | Language |
 |--------|--------|--------|
 | [![Tech Shreyansh Stats](https://github-readme-stats.vercel.app/api?username=techyshreyansh&show_icons=true&locale=en)](https://github.com/techyshreyansh) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=techyshreyansh&)](https://git.io/streak-stats) | [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=techyshreyansh&layout=compact&theme=buefy&hide_border=true)](https://github.com/techyshreyansh/github-readme-stats) |
 
-<h3 align="left">Top Repositories</h3>
+## Top Repositories
 | Moon UserBot | Top MoviesBot | String SessionBot |
 |--------|--------|--------|
 | [![Moon UserBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=moonub-cloud-web)](https://github.com/techyshreyansh/moonub-cloud-web) | [![Top MoviesBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=Top-Movie-Bot)](https://github.com/techyshreyansh/Top-Movie-Bot) | [![String SessionBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=STRING-SESSION)](https://github.com/techyshreyansh/STRING-SESSION) |
 
-<h3 align="left">Software & Tools</h3>
+## Software & Tools
 
-<h3 align="left">Support:</h3>
+## Support:
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/techshreyansh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/techshreyansh" /></a></p><br><br>
 
-<h3 align="left">Trophies</h3>
+## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=techyshreyansh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details>
@@ -77,7 +77,7 @@ I've founded a few companies in the past :zap: I love playing video games and yo
 </tr>
 </details>
 
-<h3 align="left">Watch my contribution graph get eaten by the snake :snake:</h3>
+## Watch my contribution graph get eaten by the snake :snake:
 <!-- platane/snk works, it just puts it on a new branch -->
 ![Tech-Shreyansh snake gif](https://github.com/techyshreyansh/techyshreyansh/blob/main/Images/github-snake.svg)
 
