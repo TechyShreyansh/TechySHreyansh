@@ -71,7 +71,7 @@
 </tr>
 </details>
 
-![snake gif](https://github.com/techyshreyansh/techyshreyansh/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/techyshreyansh/snk/raw/output/github-contribution-grid-snake.gif)
 
 <!---
 TechShreyansh/TechShreyansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
