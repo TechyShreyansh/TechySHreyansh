@@ -56,11 +56,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techshreyansh0129&show_icons=true&locale=en" alt="techshreyansh0129" /></p>
 
+# Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhiTheModder&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 <details>
     <summary><b>Detailed Contribution Info:</b></summary>
 <tr>
   <td>
-    <img src="https://github.com/techyshreyansh/techyshreyansh/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+    <img src="https://github.com/AbhiTheModder/AbhiTheModder/blob/main/github-metrics.svg" alt="Metrics" width="100%">
   </td>
 </tr>
 </details>
+
