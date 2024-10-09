@@ -47,7 +47,7 @@
 # Socials
 | GitHub | YouTube | Telegram |
 |--------|---------|----------|
-| [![](https://img.shields.io/badge/Abhi-TheModder-brightgreen?style=for-the-badge&logo=github "GitHub")](https://github.com/techyshreyansh) | [![](https://img.shields.io/badge/YouTube-techyshreyansh-red?style=for-the-badge&logo=youtube "YouTube")]([https://github.com/techyshreyansh](https://www.youtube.com/channel/UCtBILuQgvXHPfvOUdcmMS2Q)) | [![](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram "Telegram")](https://t.me/joinchat/xP-wW-A5mIBmMjY1) |
+| [![](https://img.shields.io/badge/techyshreyansh-brightgreen?style=for-the-badge&logo=github "GitHub")](https://github.com/techyshreyansh) | [![](https://img.shields.io/badge/YouTube-techyshreyansh-red?style=for-the-badge&logo=youtube "YouTube")]([https://github.com/techyshreyansh](https://www.youtube.com/channel/UCtBILuQgvXHPfvOUdcmMS2Q)) | [![](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram "Telegram")](https://telegram.me/Tech_Shreyansh2) |
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/techshreyansh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/techshreyansh" /></a></p><br><br>
@@ -56,14 +56,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techshreyansh0129&show_icons=true&locale=en" alt="techshreyansh0129" /></p>
 
-# Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbhiTheModder&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=techyshreyansh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details>
     <summary><b>Detailed Contribution Info:</b></summary>
 <tr>
   <td>
-    <img src="https://github.com/AbhiTheModder/AbhiTheModder/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+    <img src="#" alt="Metrics" width="100%">
   </td>
 </tr>
 </details>
