@@ -46,10 +46,7 @@
 
 #### Top Repositories
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=techyshreyansh/Reverse-Engineering)](https://github.com/techyshreyansh/Reverse-Engineering) |
-<a href="https://github.com/techyshreyansh/STRING-SESSION">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=techyshreyansh/STRING-SESSION&theme=buefy" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=Reverse-Engineering)](https://github.com/techyshreyansh/Reverse-Engineering)
 
 <br />
 <br />
