@@ -20,11 +20,11 @@
 
 - 📝 I regularly write articles on [Tech-Shreyansh](tehyshreyansh.com).
 
-- 💬 Ask me about **Software Engineering, Cyber Security, Ethical Hacking, Bug Hunting** any Tech realed stuff.
+- 💬 Ask me about **Software Engineering, Cyber Security, Ethical Hacking, Bug Hunting** any Tech realed Stuff.
 
 - 📫 How to reach me **srytgaming89@gmail.com**.
 
-- ⚡ Fun fact **I used to binge watch movies or cartoons every night for about 2-3 hours.**.
+- ⚡ Fun fact **I used to binge Watch Movies or Cartoons Every Night for About 2-3 hours.**.
 
 ### I'm listening to:
 
