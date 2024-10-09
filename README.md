@@ -56,9 +56,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/techshreyansh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/techshreyansh" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techshreyansh0129&show_icons=true&locale=en&layout=compact" alt="techshreyansh0129" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techyshreyansh&show_icons=true&locale=en&layout=compact" alt="techshreyansh0129" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techshreyansh0129&show_icons=true&locale=en" alt="techshreyansh0129" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techyshreyansh&show_icons=true&locale=en" alt="techshreyansh0129" /></p>
 
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=techyshreyansh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
