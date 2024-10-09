@@ -26,10 +26,6 @@
 
 - ⚡ Fun fact **I used to binge watch movies or cartoons every night for about 2-3 hours.**.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/tech_shreyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tech_shreyansh" height="30" width="40" /></a>
@@ -47,6 +43,18 @@
 | Stats | Streak | Language |
 |--------|--------|--------|
 | [![Tech Shreyansh Stats](https://github-readme-stats.vercel.app/api?username=techyshreyansh&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=techyshreyansh&theme=dracula&currStreakLabel=437C85&sideLabels=437C85&ring=007BEB&fire=007BEB&sideNums=007BEB&background=FFFFFF00&dates=437C85&hide_border=true)](https://git.io/streak-stats) | [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=techyshreyansh&layout=compact&theme=buefy&hide_border=true)](https://github.com/techyshreyansh/github-readme-stats) |
+
+#### Top Repositories
+|--------|--------|
+<a href="https://github.com/techyshreyansh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansha&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
 
 ## Socials
 | GitHub | YouTube | Telegram |
