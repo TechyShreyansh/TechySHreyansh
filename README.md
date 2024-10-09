@@ -44,7 +44,7 @@
 |--------|--------|
 | [![Tech Shreyansh Stats](https://github-readme-stats.vercel.app/api?username=techyshreyansh&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=techyshreyansh&theme=dracula&currStreakLabel=437C85&sideLabels=437C85&ring=007BEB&fire=007BEB&sideNums=007BEB&background=FFFFFF00&dates=437C85&hide_border=true)](https://git.io/streak-stats) |
 
-# Socials
+## Socials
 | GitHub | YouTube | Telegram |
 |--------|---------|----------|
 | [![](https://img.shields.io/badge/Tech-Shreyansh-brightgreen?style=for-the-badge&logo=github "GitHub")](https://github.com/techyshreyansh) | [![](https://img.shields.io/badge/YouTube-TechShreyansh-red?style=for-the-badge&logo=youtube "YouTube")](https://www.youtube.com/channel/UCyNsaNVaC4OzPIO9dnO5lzg) | [![](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram "Telegram")](https://telegram.me/Tech_Shreyansh2) |
