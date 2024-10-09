@@ -74,7 +74,7 @@
 ### Watch my contribution graph get eaten by the snake :snake:
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/techyshreyansh/MishManners/blob/output/github-snake.svg)
+![Tech-Shreyansh snake gif](https://github.com/techyshreyansh/techyshreyansh/blob/main/Images/github-snake.svg)
 
 <!---
 TechShreyansh/TechShreyansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
