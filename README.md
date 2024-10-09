@@ -8,21 +8,23 @@
 
 <p align="left"> <a href="https://twitter.com/_rai_shreyansh_" target="blank"><img src="https://img.shields.io/twitter/follow/_rai_shreyansh_?logo=twitter&style=for-the-badge" alt="_rai_shreyansh_" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering/Cyber Security**
+- 🔭 I’m currently working as a **Web Designing**.
+  
+- 🌱 I’m currently learning **Software Engineering/Cyber Security**.
 
-- 👯 I’m looking to collaborate on **Cyber Security Projects**
+- 👯 I’m looking to collaborate on **Youtube**.
 
-- 🤝 I’m looking for help with **Web Design/Android Hacking**
+- 🤝 I’m looking for help with **Competitive Coding**.
 
-- 👨‍💻 All of my projects are available at [https://tehyshreyansh.com](https://tehyshreyansh.com)
+- 👨‍💻 All of my projects are available at [https://tehyshreyansh.com](https://tehyshreyansh.com).
 
-- 📝 I regularly write articles on [tehyshreyansh.com](tehyshreyansh.com)
+- 📝 I regularly write articles on [tehyshreyansh.com](tehyshreyansh.com).
 
-- 💬 Ask me about **Software Engineering, Cyber Security, Ethical Hacking, Bug Hunting**
+- 💬 Ask me about **Software Engineering, Cyber Security, Ethical Hacking, Bug Hunting** any Tech realed stuff.
 
-- 📫 How to reach me **srytgaming89@gmail.com**
+- 📫 How to reach me **srytgaming89@gmail.com**.
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I am Funny**.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -69,3 +71,8 @@
   </td>
 </tr>
 </details>
+
+<!---
+TechShreyansh/TechShreyansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
