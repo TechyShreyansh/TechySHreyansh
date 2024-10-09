@@ -60,11 +60,6 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 |--------|--------|--------|
 | [![Moon UserBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=moonub-cloud-web)](https://github.com/techyshreyansh/moonub-cloud-web) | [![Top MoviesBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=Top-Movie-Bot)](https://github.com/techyshreyansh/Top-Movie-Bot) | [![String SessionBot](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=STRING-SESSION)](https://github.com/techyshreyansh/STRING-SESSION) |
 
-### Software & Tools
-
-## Support:
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/techshreyansh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/techshreyansh" /></a></p><br><br>
-
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=techyshreyansh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
