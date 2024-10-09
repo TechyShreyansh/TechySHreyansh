@@ -35,7 +35,7 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/@techshreyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techshreyansh" height="30" width="40" /></a>
 <a href="/https://techyshreyansh.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://techyshreyansh.com/feed/" height="30" width="40" /></a>
 <a href="https://t.me/Tech_Shreyansh2" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
 </a>
 </p>
 
