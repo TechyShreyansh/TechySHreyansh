@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **srytgaming89@gmail.com**.
 
-- ⚡ Fun fact **I think I am Funny**.
+- ⚡ Fun fact **I used to binge watch movies or cartoons every night for about 2-3 hours.**.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
