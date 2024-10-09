@@ -47,7 +47,7 @@
 # Socials
 | GitHub | YouTube | Telegram |
 |--------|---------|----------|
-| [![](https://img.shields.io/badge/Tech-Shreyansh-brightgreen?style=for-the-badge&logo=github "GitHub")](https://github.com/techyshreyansh) | [![](https://img.shields.io/badge/YouTube-TechShreyansh-red?style=for-the-badge&logo=youtube "YouTube")]([https://github.com/techyshreyansh](https://www.youtube.com/channel/UCyNsaNVaC4OzPIO9dnO5lzg) | [![](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram "Telegram")](https://telegram.me/Tech_Shreyansh2) |
+| [![](https://img.shields.io/badge/Tech-Shreyansh-brightgreen?style=for-the-badge&logo=github "GitHub")](https://github.com/techyshreyansh) | [![](https://img.shields.io/badge/YouTube-TechShreyansh-red?style=for-the-badge&logo=youtube "YouTube")]([https://github.com/techyshreyansh](https://www.youtube.com/channel/UCyNsaNVaC4OzPIO9dnO5lzg)] | [![](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram "Telegram")](https://telegram.me/Tech_Shreyansh2) |
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/techshreyansh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/techshreyansh" /></a></p><br><br>
