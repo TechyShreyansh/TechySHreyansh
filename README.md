@@ -72,12 +72,11 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
     <summary><b>Detailed Contribution Info:</b></summary>
 <tr>
   <td>
-    <img src="#" alt="Metrics" width="100%">
+    <img src="https://github.com/techyshreyansh/techyshreyansh/blob/main/github-metrics.svg" alt="Metrics" width="100%">
   </td>
 </tr>
 </details>
 
-![Contribution Graph](https://github-readme-stats.vercel.app/api?username=techyshreyansh)
 
 ### Watch my contribution graph get eaten by the snake :snake:
 <!-- platane/snk works, it just puts it on a new branch -->
