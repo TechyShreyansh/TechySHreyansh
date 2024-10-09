@@ -47,11 +47,7 @@
 ## Top Repositories
 | Moon UserBot | String Session |
 |--------|--------|
-| [![Moon UserBot](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-moonub-cloud-web&theme=buefy)](https://github.com/techyshreyansh/moonub-cloud-web) | [![String Session](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-STRING-SESSION&theme=buefy)](https://github.com/techyshreyansh/STRING-SESSION) |
-
-<a href="https://github.com/techyshreyansh/STRING-SESSION">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+| [![Moon UserBot](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-moonub-cloud-web&theme=buefy)](https://github.com/techyshreyansh/moonub-cloud-web) | [![String Session](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=techyshreyansh/STRING-SESSION&theme=buefy)](https://github.com/techyshreyansh/STRING-SESSION) |
 
 ## Socials
 | GitHub | YouTube | Telegram |
