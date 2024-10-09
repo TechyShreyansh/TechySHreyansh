@@ -44,11 +44,17 @@
 |--------|--------|--------|
 | [![Tech Shreyansh Stats](https://github-readme-stats.vercel.app/api?username=techyshreyansh&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=techyshreyansh&theme=dracula&currStreakLabel=437C85&sideLabels=437C85&ring=007BEB&fire=007BEB&sideNums=007BEB&background=FFFFFF00&dates=437C85&hide_border=true)](https://git.io/streak-stats) | [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=techyshreyansh&layout=compact&theme=buefy&hide_border=true)](https://github.com/techyshreyansh/github-readme-stats) |
 
-## Top Repositories
-| Moon UserBot | String Session |
-|--------|--------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=techyshreyansh/moonub-cloud-web)](https://github.com/techyshreyansh/moonub-cloud-web) | 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) |
+#### Top Repositories
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/techyshreyansh/STRING-SESSION">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=techyshreyansh/STRING-SESSION&theme=buefy" />
+</a>
+
+<br />
+<br />
 
 ## Socials
 | GitHub | YouTube | Telegram |
