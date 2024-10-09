@@ -71,8 +71,7 @@
 </tr>
 </details>
 
-### Watch my contribution graph get eaten by the snake :snake:
-
+## Watch my contribution graph get eaten by the snake :snake:
 <!-- platane/snk works, it just puts it on a new branch -->
 ![Tech-Shreyansh snake gif](https://github.com/techyshreyansh/techyshreyansh/blob/main/Images/github-snake.svg)
 
