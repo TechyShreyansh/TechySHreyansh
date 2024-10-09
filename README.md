@@ -16,9 +16,9 @@
 
 - 🤝 I’m looking for help with **Competitive Coding**.
 
-- 👨‍💻 All of my projects are available at [https://tehyshreyansh.com](https://tehyshreyansh.com).
+- 👨‍💻 All of my projects are available at [My Portfolo](#).
 
-- 📝 I regularly write articles on [tehyshreyansh.com](tehyshreyansh.com).
+- 📝 I regularly write articles on [Techy Shreyansh](tehyshreyansh.com).
 
 - 💬 Ask me about **Software Engineering, Cyber Security, Ethical Hacking, Bug Hunting** any Tech realed stuff.
 
@@ -78,7 +78,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 </details>
 
 
-### Watch my contribution graph get eaten by the snake :snake:
+### Watch my Contribution Graph get Eaten by the Snake:
 <!-- platane/snk works, it just puts it on a new branch -->
 ![Tech-Shreyansh snake gif](https://github.com/techyshreyansh/techyshreyansh/blob/main/Images/github-snake.svg)
 
