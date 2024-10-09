@@ -45,7 +45,8 @@
 | [![Tech Shreyansh Stats](https://github-readme-stats.vercel.app/api?username=techyshreyansh&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=techyshreyansh&theme=dracula&currStreakLabel=437C85&sideLabels=437C85&ring=007BEB&fire=007BEB&sideNums=007BEB&background=FFFFFF00&dates=437C85&hide_border=true)](https://git.io/streak-stats) | [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=techyshreyansh&layout=compact&theme=buefy&hide_border=true)](https://github.com/techyshreyansh/github-readme-stats) |
 
 #### Top Repositories
-|--------|--------|
+| Stats | Streak | Language |
+|--------|--------|--------|
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=github-readme-stats)](https://github.com/techyshreyansh/github-readme-stats)
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=anuraghazra.github.io&theme=buefy" />
