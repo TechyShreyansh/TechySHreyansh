@@ -46,9 +46,7 @@
 
 #### Top Repositories
 |--------|--------|
-<a href="https://github.com/techyshreyansh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=github-readme-stats&theme=buefy" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=github-readme-stats)](https://github.com/techyshreyansh/github-readme-stats)
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techyshreyansh&repo=anuraghazra.github.io&theme=buefy" />
 </a>
