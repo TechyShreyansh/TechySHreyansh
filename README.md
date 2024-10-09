@@ -16,9 +16,9 @@
 
 - 🤝 I’m looking for help with **Competitive Coding**.
 
-- 👨‍💻 All of my projects are available at [My Portfolo](#).
+- 👨‍💻 All of my projects are available at [Portfolio](#).
 
-- 📝 I regularly write articles on [Techy Shreyansh](tehyshreyansh.com).
+- 📝 I regularly write articles on [Tech-Shreyansh](tehyshreyansh.com).
 
 - 💬 Ask me about **Software Engineering, Cyber Security, Ethical Hacking, Bug Hunting** any Tech realed stuff.
 
