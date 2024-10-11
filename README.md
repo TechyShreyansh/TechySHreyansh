@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Competitive Coding**.
 
-- 👨‍💻 All of my projects are available at [Portfolio](#).
+- 👨‍💻 All of my projects are available at [Portfolio](https://techyshreyansh.github.io/Resume/).
 
 - 📝 I regularly write articles on [Tech-Shreyansh](tehyshreyansh.com).
 
