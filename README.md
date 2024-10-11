@@ -44,7 +44,7 @@
 </p>
 
 <p align="left">
-    <h4>Programming Languages & Markup</h4>
+    <h3>Programming Languages & Markup</h3>
     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -67,7 +67,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
         </a>
 </div>
-<p align="left">
     <h3>Version Control & Collaboration</h3>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -75,10 +74,102 @@
         </a>
         <a href="https://github.com/" target="_blank" rel="noreferrer" >
             <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
-<!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/> -->
         </a>
     </div>
-
+     <h3>Software & Tools</h3>
+    <!-- Data Visualization Tools -->
+<!--         <a href="https://www.sap.com/products/data-modeling-tools/powerdesigner.html" target="_blank" rel="noreferrer">
+            <img src="https://www.powerdesigner.biz/images/logo-powerdesigner.png" alt="PowerDesigner" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://www.qlik.com/us/try-qlik-view" target="_blank" rel="noreferrer">
+            <img src="https://www.qlik.com/us/-/media/qlik/global/logos/qlik-logo.png" alt="QlikView" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+            <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="Power BI" width="30" height="40"/>
+        </a> -->
+<!--         <a href="https://d3js.org/" target="_blank" rel="noreferrer">
+            <img src="https://d3js.org/logo.svg" alt="D3.js" width="40" height="40"/>
+        </a> -->
+    </div>
+    <br/>
+    <!-- Development Tools -->
+<!--     <h5>Development Tools</h5> -->
+        <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
+            <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
+        </a> 
+        <a href="https://atom.io/" target="_blank" rel="noreferrer">
+            <img src="https://atom.io/images/atom@2x.png" alt="Atom" width="40" height="40"/>
+        </a> 
+    </div>
+    <br/>
+   <!-- <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://laragon.org/" target="_blank" rel="noreferrer">
+            <img src="https://user-images.githubusercontent.com/176/211701214-b1635bd3-0fa2-477f-9578-54e506dc7d08.png" alt="Laragon" width="40" height="40"/>
+        </a> -->
+      <!--  <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
+            <img src="https://cdn.freebiesupply.com/logos/large/2x/xampp-logo-png-transparent.png" alt="XAMPP" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="40" height="40"/>
+        </a> -->
+    </div>
+    <br/>
+    <!-- Design Tools -->
+<!--     <h5>Design Tools</h5> -->
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+        </a>
+    </div>
+    <!-- Streaming Tools -->
+    <br/>
+<!--     <h5>Streaming Tools</h5> -->
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://obsproject.com/" target="_blank" rel="noreferrer">
+            <img src="https://iconape.com/wp-content/png_logo_vector/obs-studio-logo.png" alt="OBS Studio" width="40" height="40"/>
+        </a>
+        <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
+            <img src="https://freelogopng.com/images/all_img/1664284836cap-cut-logo-png.png" alt="CapCut" width="40" height="40"/>
+        </a>
+    </div>
+    
+  <h3>Most Used Browser</h3>
+     <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+        <a href="https://www.google.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+        </a>
+        <a href="https://www.google.com/chrome/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+        </a>
+        <a href="https://www.microsoft.com/en-us/edge" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/alrra/browser-logos/main/src/edge/edge.svg" alt="Edge" width="40" height="40"/>
+        </a>
+        <a href="https://www.brave.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.simpleicons.org/Brave/Brave-Original.svg" alt="Brave" width="40" height="40"/>
+        </a>
+               <a href="https://www.brave.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/opera-icon.svg" alt="Opera" width="40" height="40"/>
+        </a>
+               <a href="https://www.brave.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/tor-browser-icon.svg" alt="Tor" width="40" height="40"/>
+        </a>
+     </div>
+     <h3>Most Used Operating System</h3>
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
+        </a>
+        <a href="https://www.android.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+        </a>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/linux-svgrepo-com.svg" alt="Android" width="40" height="40"/>
+        </a>
+       <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/linux-svgrepo-com.svg" alt="Android" width="40" height="40"/>
+        </a>
+    </div>
+</p>
 
 <img align="right" width="150" height="150" src="https://github.com/techyshreyansh/techyshreyansh/blob/main/Images/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
 ### Some Fun Facts About Me:
