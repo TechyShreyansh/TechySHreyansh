@@ -67,6 +67,104 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
         </a>
 </div>
+ <!--   <h3 style="font-weight: bold; text-decoration: underline;">Development Frameworks, Tools & Databases</h3>
+    <!-- Web Frameworks and Tools -->
+<!--     <h5>Web Frameworks and Tools</h5> -->
+<!--    <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+        </a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+        </a>
+        <a href="https://laravel.com" target="_blank" rel="noreferrer">
+            <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="40" height="40"/>
+        </a>
+        <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+          <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40" />
+        </a>
+    </div>
+    <br/> -->
+    <!-- Databases -->
+<!--     <h5>Databases</h5> -->
+ <!--   <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> -->
+     <!--       <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="MySQL" width="40" height="40"/>
+        </a>
+<!--         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+        </a>
+        <a href="https://redis.io/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+        </a>
+    </div> -->
+    <!-- Mobile Development Tools -->
+<!--     <h5>Mobile Development Frameworks & Tools</h5>
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" alt="Flutter" width="40" height="40"/>
+        </a>
+        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+            <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
+        </a>
+        <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+            <img src="https://developer.android.com/images/brand/Android_Robot.png" alt="Android Studio" width="40" height="40"/>
+        </a>
+        <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+            <img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128.png" alt="Xcode" width="40" height="40"/>
+        </a>
+    </div> -->
+<!--    <h3>Data Science, Machine Learning, & Visualization Tools</h3>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+        </a>
+        <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+        </a>
+        <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+        </a>
+        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+            <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+        </a>
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+        </a>
+        <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+        </a> -->
+<!--         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+        </a> -->
+<!--         <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+        </a> -->
+<!--         <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;">
+            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
+        </a> 
+    </div>
+<!--     <br/> 
+    <div style="display: flex; align-items: center; gap: 10px;">
+<!--         <a href="https://scrapy.org/" target="_blank" rel="noreferrer">
+            <img src="https://scrapy.org/img/scrapylogo.png" alt="Scrapy" width="125" height="40"/>
+        </a> -->
+<!--         <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank" rel="noreferrer">
+           <img src="https://scrapingant.com/blog/img/blog/beautifulsoup-logo.png" alt="Beautiful Soup" width="40" height="40"/> 
+            <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/03/ws3.png" alt="Beautiful Soup" width="80" height="40"/>
+        </a> -->
+<!--         <a href="https://requests.readthedocs.io/en/master/" target="_blank" rel="noreferrer">
+            <img src="https://www.pngkit.com/png/full/70-701671_requests-python-logo-python-requests-logo.png" alt="Requests" width="40" height="40"/>
+            <img src="https://www.nicepng.com/png/full/70-702215_python-logo-png.png" alt="Requests" width="25" height="40"/>
+        </a> -->
+<!--         <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+            <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/>
+        </a> -->
+    </div>
     <h3>Version Control & Collaboration</h3>
     <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
