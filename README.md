@@ -81,15 +81,6 @@
 <!--         <a href="https://www.sap.com/products/data-modeling-tools/powerdesigner.html" target="_blank" rel="noreferrer">
             <img src="https://www.powerdesigner.biz/images/logo-powerdesigner.png" alt="PowerDesigner" width="40" height="40"/>
         </a> -->
-<!--         <a href="https://www.qlik.com/us/try-qlik-view" target="_blank" rel="noreferrer">
-            <img src="https://www.qlik.com/us/-/media/qlik/global/logos/qlik-logo.png" alt="QlikView" width="40" height="40"/>
-        </a> -->
-<!--         <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-            <img src="https://static-00.iconduck.com/assets.00/power-bi-icon-1536x2048-0xah5g2o.png" alt="Power BI" width="30" height="40"/>
-        </a> -->
-<!--         <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-            <img src="https://d3js.org/logo.svg" alt="D3.js" width="40" height="40"/>
-        </a> -->
     </div>
     <br/>
     <!-- Development Tools -->
@@ -97,20 +88,14 @@
         <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
             <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
         </a> 
-        <a href="https://atom.io/" target="_blank" rel="noreferrer">
-            <img src="https://atom.io/images/atom@2x.png" alt="Atom" width="40" height="40"/>
+        <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">
+            <img src="https://notepad-plus-plus.org/images/logo.svg" alt="Notepad++" width="40" height="40"/>
         </a> 
     </div>
     <br/>
    <!-- <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://laragon.org/" target="_blank" rel="noreferrer">
             <img src="https://user-images.githubusercontent.com/176/211701214-b1635bd3-0fa2-477f-9578-54e506dc7d08.png" alt="Laragon" width="40" height="40"/>
-        </a> -->
-      <!--  <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer">
-            <img src="https://cdn.freebiesupply.com/logos/large/2x/xampp-logo-png-transparent.png" alt="XAMPP" width="40" height="40"/>
-        </a> -->
-<!--         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="40" height="40"/>
         </a> -->
     </div>
     <br/>
@@ -163,10 +148,10 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
         </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/linux-svgrepo-com.svg" alt="Android" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/linux-svgrepo-com.svg" alt="Linux" width="40" height="40"/>
         </a>
        <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/linux-svgrepo-com.svg" alt="Android" width="40" height="40"/>
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechySHreyansh@main/Images/kalilinux-svgrepo-com.svg" alt="Kali" width="40" height="40"/>
         </a>
     </div>
 </p>
