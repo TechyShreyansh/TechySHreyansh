@@ -43,8 +43,42 @@
 <a href="/https://techyshreyansh.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://techyshreyansh.com/feed/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left">
+    <h4>Programming Languages & Markup</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+        </a>
+       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+        </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+        </a>
+       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+        </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    </div>
+    <br/>
+     <div style="display: flex; align-items: center; gap: 10px;">
+        <!-- Shreyansh bahasa Markup -->
+         <a href="https://www.powershell.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
+        </a>
+</div>
+<p align="left">
+    <h3>Version Control & Collaboration</h3>
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+        </a>
+        <a href="https://github.com/" target="_blank" rel="noreferrer" >
+            <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/>
+<!--             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="background-color: #ffffff; padding: 5px; border-radius: 5px;"/> -->
+        </a>
+    </div>
+
 
 <img align="right" width="150" height="150" src="https://github.com/techyshreyansh/techyshreyansh/blob/main/Images/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
 ### Some Fun Facts About Me:
