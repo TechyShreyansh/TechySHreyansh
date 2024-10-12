@@ -186,6 +186,7 @@
     <br/>
     <!-- Development Tools -->
 <!--     <h5>Development Tools</h5> -->
+ <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
             <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
         </a> 
