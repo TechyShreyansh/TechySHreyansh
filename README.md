@@ -272,7 +272,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 [![trophy](https://github-profile-trophy.vercel.app/?username=techyshreyansh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details> 
-  <summary><b>📺 Latest YouTube Videos</b></summary>
+  <summary><b>Latest YouTube Videos</b></summary>
 <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
   
  <!-- BEGIN YOUTUBE-CARDS -->
