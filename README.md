@@ -30,7 +30,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31omun422jxwf3dbgmqv3rda4jn4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect & Find Me:</h3>
 <p align="left">
 <a href="https://github.com/techyshreyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@techshreyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techshreyansh" height="30" width="40" /></a>
