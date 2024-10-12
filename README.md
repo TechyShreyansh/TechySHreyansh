@@ -273,11 +273,8 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 
 <details> 
   <summary><b>📺 Latest YouTube Videos</b></summary>
-  <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
-    <!-- prettier-ignore-start -->
-<!-- BEGIN YOUTUBE-CARDS -->
+ <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
-  <!-- prettier-ignore-end -->
 </details>
 
 <details>
