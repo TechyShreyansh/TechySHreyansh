@@ -184,9 +184,17 @@
         </a>
     </div>
     <br/>
+        <!-- Design Tools -->
+<!--     <h5>Design Tools</h5> -->
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+        </a>
+    </div>
+    <!-- Streaming Tools -->
+    <br/>
     <!-- Development Tools -->
 <!--     <h5>Development Tools</h5> -->
- <div style="display: flex; align-items: center; gap: 10px;">
         <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
             <img src="https://freepngimg.com/icon/download/search/9070-sublime-text.png" alt="Sublime Text" width="40" height="40"/>
         </a> 
