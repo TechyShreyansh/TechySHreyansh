@@ -189,6 +189,9 @@
         <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">
             <img src="https://notepad-plus-plus.org/images/logo.svg" alt="Notepad++" width="40" height="40"/>
         </a> 
+        <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/WinMerge1.png" alt="WinMerge" width="40" height="40"/>
+        </a> 
     </div>
     <br/>
    <!-- <div style="display: flex; align-items: center; gap: 10px;">
