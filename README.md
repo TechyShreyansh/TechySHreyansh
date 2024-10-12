@@ -278,6 +278,7 @@ I've Worked for many users in the past. ⚡ I love playing video games and you'l
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
+</details>
 
 <details>
     <summary><b>Detailed Contribution Info:</b></summary>
