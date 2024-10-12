@@ -176,9 +176,12 @@
     </div>
      <h3>Software & Tools</h3>
     <!-- Data Visualization Tools -->
-<!--         <a href="https://www.sap.com/products/data-modeling-tools/powerdesigner.html" target="_blank" rel="noreferrer">
-            <img src="https://www.powerdesigner.biz/images/logo-powerdesigner.png" alt="PowerDesigner" width="40" height="40"/>
-        </a> -->
+       <a href="https://www.adobe.com/acrobat/acrobat-pro.html" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/free-adobe-acrobat-pro-icon-down.png" alt="AdobeAcrobatPro" width="40" height="40"/>
+        </a>
+        <a href="https://www.httrack.com/page/2/en/index.html" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/httrack-website-copier-logo.png" alt="HTTrack" width="40" height="40"/>
+        </a>
     </div>
     <br/>
     <!-- Development Tools -->
@@ -189,8 +192,11 @@
         <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">
             <img src="https://notepad-plus-plus.org/images/logo.svg" alt="Notepad++" width="40" height="40"/>
         </a> 
-        <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">
+        <a href="https://winmerge.org/?lang=en" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/WinMerge1.png" alt="WinMerge" width="40" height="40"/>
+        </a> 
+         <a href="https://xdaforums.com/t/closed-discontinued-windows-apk-easy-tool-v1-60-2022-06-23.3333960/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/TechyShreyansh/TechyShreyansh@main/Images/apk-easy-tool.png" alt="ApkEasyTool" width="40" height="40"/>
         </a> 
     </div>
     <br/>
