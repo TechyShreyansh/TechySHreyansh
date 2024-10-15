@@ -32,10 +32,10 @@
 
 <p align="left">
 <h3>Connect & Find Me:</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-<a href="https://github.com/techyshreyansh" target="blank">
+
+<a href="https://github.com/techyshreyansh" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@techshreyansh" target="blank">
+<a href="https://www.youtube.com/c/https://www.youtube.com/@techshreyansh" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techshreyansh" height="30" width="40" /></a>
 <a href="https://t.me/Tech_Shreyansh2" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" /></a>
@@ -51,17 +51,6 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tech_shreyansh" height="30" width="40" /></a>
 <a href="/https://techyshreyansh.com/feed/" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://techyshreyansh.com/feed/" height="30" width="40" /></a>
-
-<div align="left">
-  <a href="mailto:contact@billalbenz.me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/billal-benzazoua/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/BillalBenzazoua" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-    
 </p>
   </div>
 
