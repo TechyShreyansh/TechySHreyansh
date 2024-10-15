@@ -47,6 +47,7 @@
   <img align="center" src="https://i.ibb.co/pyJhzT4/linkedin-256x256.png" alt="LinkedIn" height="30" width="30" style="border-radius: 50%;" /></a>
 <a href="https://twitter.com/_rai_shreyansh_" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rai_shreyansh_" height="30" width="40" /></a>
+    
 <a href="https://codepen.io/tech_shreyansh" target="blank">
 </br>
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tech_shreyansh" height="30" width="40" /></a>
