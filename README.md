@@ -32,7 +32,7 @@
 
 <p align="left">
 <h3>Connect & Find Me:</h3>
-
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 <a href="https://github.com/techyshreyansh" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@techshreyansh" target="blank">
